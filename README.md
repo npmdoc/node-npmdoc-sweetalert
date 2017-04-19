@@ -1,9 +1,14 @@
-# api documentation for  [sweetalert (v1.1.3)](http://tristanedwards.me/sweetalert)  [![npm package](https://img.shields.io/npm/v/npmdoc-sweetalert.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sweetalert) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sweetalert.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sweetalert)
+# npmdoc-sweetalert
+
+#### api documentation for  [sweetalert (v1.1.3)](http://tristanedwards.me/sweetalert)  [![npm package](https://img.shields.io/npm/v/npmdoc-sweetalert.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sweetalert) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sweetalert.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sweetalert)
+
 #### A beautiful replacement for JavaScript's "alert"
 
-[![NPM](https://nodei.co/npm/sweetalert.png?downloads=true)](https://www.npmjs.com/package/sweetalert)
+[![NPM](https://nodei.co/npm/sweetalert.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sweetalert)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-sweetalert/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-sweetalert_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sweetalert/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-sweetalert/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-sweetalert/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-sweetalert/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sweetalert/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-sweetalert/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Tristan Edwards",
-        "email": "tristan.edwards@me.com",
         "url": "http://tristanedwards.me"
     },
     "bugs": {
@@ -63,13 +67,11 @@
     "main": "lib/sweetalert.js",
     "maintainers": [
         {
-            "name": "t4t5",
-            "email": "tristan.edwards@me.com"
+            "name": "t4t5"
         }
     ],
     "name": "sweetalert",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/t4t5/sweetalert.git"
@@ -80,16 +82,6 @@
     "version": "1.1.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module sweetalert](#apidoc.module.sweetalert)
-
-
-
-# <a name="apidoc.module.sweetalert"></a>[module sweetalert](#apidoc.module.sweetalert)
 
 
 
